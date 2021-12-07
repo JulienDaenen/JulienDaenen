@@ -3,6 +3,7 @@
 ---
 
 <h2 align="center">Preferred Language</h2>
+<br>
 
 <p align="center">
     <img src="./src/html.svg" alt="logo html" width="100" height="100">
@@ -13,7 +14,10 @@
     <img src="./src/nodejs.svg" alt="logo nodejs" width="100" height="100">
 </p>
 
-## GitHub Stats
+---
+
+<h2 align="center">GitHub Stats</h2>
+<br>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=JulienDaenen&show_icons=true&line_height=27&count_private=true&t&hide=prs,issues&hide_title=true&theme=radical)](https://github.com/JulienDaenen/JulienDaenen)
 
