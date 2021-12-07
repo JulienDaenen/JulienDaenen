@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm a Junior Web Dev</h1>
 
----
+<br>
 
 <h2 align="center">Preferred Language</h2>
 <br>
@@ -14,7 +14,7 @@
     <img src="./src/nodejs.svg" alt="logo nodejs" width="100" height="100">
 </p>
 
----
+<br>
 
 <h2 align="center">GitHub Stats</h2>
 <br>
